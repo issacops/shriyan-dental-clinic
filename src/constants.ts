@@ -742,7 +742,7 @@ export const TECHNOLOGIES = [
 
 export const CONTACT_INFO = {
   phone: '+91 98605 12004',
-  email: 'contact@shriyandental.com',
+  email: 'contact@shriyandentalclinic.com',
   address: {
     full: 'Shop Number 8, Vanshaj Building, Pingale Wasti, Ganesh Baug, Near Koregaon Park, Mundhwa, Pune - 411036, Maharashtra, India'
   },
